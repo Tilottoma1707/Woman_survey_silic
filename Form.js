@@ -1,7 +1,7 @@
 class Form{
 constructor(){
 
-this.heading = createElement("h1","Girl Child's Lives Matter");
+this.heading = createElement("h1","Girl Child's Life Matters");
 
 this.question1 = createElement("h2","What Is Your Beautiful Name?")
 this.answer1 = createInput();
